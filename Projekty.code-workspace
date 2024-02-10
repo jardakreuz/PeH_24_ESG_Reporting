@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cSpell.language": "en,cs",
+		"markdownConverter.Parser.Toc.Levels": "2-6"
+	}
+}
